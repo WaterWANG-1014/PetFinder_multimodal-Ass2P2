@@ -1,7 +1,7 @@
 # Multimodal Prediction of Pet Adoption Speed
 
 Project 2.2 (individual), Multimodal Data Analysis, Adelaide University.
-Author: [your name / student ID]
+Author: Zetao Wang a1939427
 
 We predict the AdoptionSpeed class (0-4) of a pet listing from its profile image, its text description and its tabular listing data (PetFinder.my Adoption Prediction, Kaggle, 2018). The notebook compares unimodal baselines with three fusion methods:
 
