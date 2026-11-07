@@ -1,0 +1,13 @@
+# Versions used for the reported results (Python 3.13.5, macOS, Apple M4 Max, device: MPS)
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+pillow==11.1.0
+torch==2.8.0
+torchvision==0.23.0
+transformers==5.20.0
+xgboost==3.4.1
+jupyterlab

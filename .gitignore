@@ -1,0 +1,11 @@
+# Competition data and anything derived from it must NOT be committed (Kaggle rules, section 7B)
+data/
+features/
+pets_split.csv
+*.zip
+kaggle.json
+
+# Notebook / Python / OS clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
